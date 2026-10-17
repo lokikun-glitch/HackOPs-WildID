@@ -1,0 +1,691 @@
+{
+  "Tiger_01": {
+    "individual_id": "Tiger_01",
+    "first_seen": "000001.png",
+    "observations": [
+      "000001.png",
+      "000002.png",
+      "000001.png",
+      "000002.png",
+      "000001.png",
+      "000003.png",
+      "000013.png",
+      "000014.png",
+      "000015.png"
+    ],
+    "total_texels": 1503950
+  },
+  "Tiger_02": {
+    "individual_id": "Tiger_02",
+    "first_seen": "000004.png",
+    "observations": [
+      "000004.png",
+      "000004.png",
+      "000004.png",
+      "000005.png",
+      "000006.png"
+    ],
+    "total_texels": 1263947
+  },
+  "Tiger_03": {
+    "individual_id": "Tiger_03",
+    "first_seen": "004031.png",
+    "observations": [
+      "004031.png",
+      "004031.png"
+    ],
+    "total_texels": 1313333
+  },
+  "Tiger_04": {
+    "individual_id": "Tiger_04",
+    "first_seen": "004033.png",
+    "observations": [
+      "004033.png",
+      "004033.png"
+    ],
+    "total_texels": 944447
+  },
+  "Tiger_05": {
+    "individual_id": "Tiger_05",
+    "first_seen": "000007.png",
+    "observations": [
+      "000007.png",
+      "000008.png",
+      "000009.png"
+    ],
+    "total_texels": 1336329
+  },
+  "Tiger_06": {
+    "individual_id": "Tiger_06",
+    "first_seen": "000011.png",
+    "observations": [
+      "000011.png",
+      "000012.png"
+    ],
+    "total_texels": 1227345
+  },
+  "Tiger_07": {
+    "individual_id": "Tiger_07",
+    "first_seen": "000016.png",
+    "observations": [
+      "000016.png"
+    ],
+    "total_texels": 650055
+  },
+  "Tiger_08": {
+    "individual_id": "Tiger_08",
+    "first_seen": "000017.png",
+    "observations": [
+      "000017.png"
+    ],
+    "total_texels": 1496286
+  },
+  "Tiger_09": {
+    "individual_id": "Tiger_09",
+    "first_seen": "000018.png",
+    "observations": [
+      "000018.png"
+    ],
+    "total_texels": 684678
+  },
+  "Tiger_10": {
+    "individual_id": "Tiger_10",
+    "first_seen": "000019.png",
+    "observations": [
+      "000019.png"
+    ],
+    "total_texels": 1165996
+  },
+  "Tiger_11": {
+    "individual_id": "Tiger_11",
+    "first_seen": "000021.png",
+    "observations": [
+      "000021.png"
+    ],
+    "total_texels": 1197249
+  },
+  "Tiger_12": {
+    "individual_id": "Tiger_12",
+    "first_seen": "000022.png",
+    "observations": [
+      "000022.png"
+    ],
+    "total_texels": 1134913
+  },
+  "Tiger_13": {
+    "individual_id": "Tiger_13",
+    "first_seen": "000024.png",
+    "observations": [
+      "000024.png"
+    ],
+    "total_texels": 1242623
+  },
+  "Tiger_14": {
+    "individual_id": "Tiger_14",
+    "first_seen": "000025.png",
+    "observations": [
+      "000025.png"
+    ],
+    "total_texels": 664994
+  },
+  "Tiger_15": {
+    "individual_id": "Tiger_15",
+    "first_seen": "000026.png",
+    "observations": [
+      "000026.png"
+    ],
+    "total_texels": 1707712
+  },
+  "Tiger_16": {
+    "individual_id": "Tiger_16",
+    "first_seen": "000027.png",
+    "observations": [
+      "000027.png"
+    ],
+    "total_texels": 811103
+  },
+  "Tiger_17": {
+    "individual_id": "Tiger_17",
+    "first_seen": "000028.png",
+    "observations": [
+      "000028.png"
+    ],
+    "total_texels": 1427525
+  },
+  "Tiger_18": {
+    "individual_id": "Tiger_18",
+    "first_seen": "000029.png",
+    "observations": [
+      "000029.png"
+    ],
+    "total_texels": 542086
+  },
+  "Tiger_19": {
+    "individual_id": "Tiger_19",
+    "first_seen": "000030.png",
+    "observations": [
+      "000030.png"
+    ],
+    "total_texels": 937283
+  },
+  "Tiger_20": {
+    "individual_id": "Tiger_20",
+    "first_seen": "000031.png",
+    "observations": [
+      "000031.png"
+    ],
+    "total_texels": 1067759
+  },
+  "Tiger_21": {
+    "individual_id": "Tiger_21",
+    "first_seen": "000032.png",
+    "observations": [
+      "000032.png"
+    ],
+    "total_texels": 967573
+  },
+  "Tiger_22": {
+    "individual_id": "Tiger_22",
+    "first_seen": "000033.png",
+    "observations": [
+      "000033.png"
+    ],
+    "total_texels": 1580762
+  },
+  "Tiger_23": {
+    "individual_id": "Tiger_23",
+    "first_seen": "000034.png",
+    "observations": [
+      "000034.png"
+    ],
+    "total_texels": 1167398
+  },
+  "Tiger_24": {
+    "individual_id": "Tiger_24",
+    "first_seen": "000035.png",
+    "observations": [
+      "000035.png"
+    ],
+    "total_texels": 1055703
+  },
+  "Tiger_25": {
+    "individual_id": "Tiger_25",
+    "first_seen": "000036.png",
+    "observations": [
+      "000036.png"
+    ],
+    "total_texels": 1005886
+  },
+  "Tiger_26": {
+    "individual_id": "Tiger_26",
+    "first_seen": "000037.png",
+    "observations": [
+      "000037.png"
+    ],
+    "total_texels": 1042392
+  },
+  "Tiger_27": {
+    "individual_id": "Tiger_27",
+    "first_seen": "000039.png",
+    "observations": [
+      "000039.png"
+    ],
+    "total_texels": 1049780
+  },
+  "Tiger_28": {
+    "individual_id": "Tiger_28",
+    "first_seen": "000042.png",
+    "observations": [
+      "000042.png"
+    ],
+    "total_texels": 1168494
+  },
+  "Tiger_29": {
+    "individual_id": "Tiger_29",
+    "first_seen": "000043.png",
+    "observations": [
+      "000043.png"
+    ],
+    "total_texels": 688948
+  },
+  "Tiger_30": {
+    "individual_id": "Tiger_30",
+    "first_seen": "000044.png",
+    "observations": [
+      "000044.png"
+    ],
+    "total_texels": 1016336
+  },
+  "Tiger_31": {
+    "individual_id": "Tiger_31",
+    "first_seen": "000045.png",
+    "observations": [
+      "000045.png"
+    ],
+    "total_texels": 680887
+  },
+  "Tiger_32": {
+    "individual_id": "Tiger_32",
+    "first_seen": "000046.png",
+    "observations": [
+      "000046.png"
+    ],
+    "total_texels": 146304
+  },
+  "Tiger_33": {
+    "individual_id": "Tiger_33",
+    "first_seen": "000047.png",
+    "observations": [
+      "000047.png"
+    ],
+    "total_texels": 532542
+  },
+  "Tiger_34": {
+    "individual_id": "Tiger_34",
+    "first_seen": "000048.png",
+    "observations": [
+      "000048.png"
+    ],
+    "total_texels": 942302
+  },
+  "Tiger_35": {
+    "individual_id": "Tiger_35",
+    "first_seen": "000049.png",
+    "observations": [
+      "000049.png"
+    ],
+    "total_texels": 916861
+  },
+  "Tiger_36": {
+    "individual_id": "Tiger_36",
+    "first_seen": "000050.png",
+    "observations": [
+      "000050.png"
+    ],
+    "total_texels": 870659
+  },
+  "Tiger_37": {
+    "individual_id": "Tiger_37",
+    "first_seen": "000051.png",
+    "observations": [
+      "000051.png"
+    ],
+    "total_texels": 1071255
+  },
+  "Tiger_38": {
+    "individual_id": "Tiger_38",
+    "first_seen": "000052.png",
+    "observations": [
+      "000052.png"
+    ],
+    "total_texels": 820993
+  },
+  "Tiger_39": {
+    "individual_id": "Tiger_39",
+    "first_seen": "000053.png",
+    "observations": [
+      "000053.png"
+    ],
+    "total_texels": 514234
+  },
+  "Tiger_40": {
+    "individual_id": "Tiger_40",
+    "first_seen": "000054.png",
+    "observations": [
+      "000054.png"
+    ],
+    "total_texels": 828913
+  },
+  "Tiger_41": {
+    "individual_id": "Tiger_41",
+    "first_seen": "000055.png",
+    "observations": [
+      "000055.png"
+    ],
+    "total_texels": 1075748
+  },
+  "Tiger_42": {
+    "individual_id": "Tiger_42",
+    "first_seen": "000056.png",
+    "observations": [
+      "000056.png"
+    ],
+    "total_texels": 968766
+  },
+  "Tiger_43": {
+    "individual_id": "Tiger_43",
+    "first_seen": "000057.png",
+    "observations": [
+      "000057.png"
+    ],
+    "total_texels": 1110210
+  },
+  "Tiger_44": {
+    "individual_id": "Tiger_44",
+    "first_seen": "000058.png",
+    "observations": [
+      "000058.png"
+    ],
+    "total_texels": 1225307
+  },
+  "Tiger_45": {
+    "individual_id": "Tiger_45",
+    "first_seen": "000059.png",
+    "observations": [
+      "000059.png"
+    ],
+    "total_texels": 741503
+  },
+  "Tiger_46": {
+    "individual_id": "Tiger_46",
+    "first_seen": "000060.png",
+    "observations": [
+      "000060.png"
+    ],
+    "total_texels": 1141720
+  },
+  "Tiger_47": {
+    "individual_id": "Tiger_47",
+    "first_seen": "000061.png",
+    "observations": [
+      "000061.png"
+    ],
+    "total_texels": 1407695
+  },
+  "Tiger_48": {
+    "individual_id": "Tiger_48",
+    "first_seen": "000062.png",
+    "observations": [
+      "000062.png"
+    ],
+    "total_texels": 932675
+  },
+  "Tiger_49": {
+    "individual_id": "Tiger_49",
+    "first_seen": "000063.png",
+    "observations": [
+      "000063.png"
+    ],
+    "total_texels": 993216
+  },
+  "Tiger_50": {
+    "individual_id": "Tiger_50",
+    "first_seen": "000064.png",
+    "observations": [
+      "000064.png"
+    ],
+    "total_texels": 1269781
+  },
+  "Tiger_51": {
+    "individual_id": "Tiger_51",
+    "first_seen": "000066.png",
+    "observations": [
+      "000066.png"
+    ],
+    "total_texels": 1175662
+  },
+  "Tiger_52": {
+    "individual_id": "Tiger_52",
+    "first_seen": "000067.png",
+    "observations": [
+      "000067.png"
+    ],
+    "total_texels": 1015336
+  },
+  "Tiger_53": {
+    "individual_id": "Tiger_53",
+    "first_seen": "000068.png",
+    "observations": [
+      "000068.png"
+    ],
+    "total_texels": 902142
+  },
+  "Tiger_54": {
+    "individual_id": "Tiger_54",
+    "first_seen": "000069.png",
+    "observations": [
+      "000069.png"
+    ],
+    "total_texels": 1377261
+  },
+  "Tiger_55": {
+    "individual_id": "Tiger_55",
+    "first_seen": "000070.png",
+    "observations": [
+      "000070.png"
+    ],
+    "total_texels": 891561
+  },
+  "Tiger_56": {
+    "individual_id": "Tiger_56",
+    "first_seen": "000071.png",
+    "observations": [
+      "000071.png"
+    ],
+    "total_texels": 1578000
+  },
+  "Tiger_57": {
+    "individual_id": "Tiger_57",
+    "first_seen": "000072.png",
+    "observations": [
+      "000072.png"
+    ],
+    "total_texels": 1230010
+  },
+  "Tiger_58": {
+    "individual_id": "Tiger_58",
+    "first_seen": "000073.png",
+    "observations": [
+      "000073.png"
+    ],
+    "total_texels": 892734
+  },
+  "Tiger_59": {
+    "individual_id": "Tiger_59",
+    "first_seen": "000074.png",
+    "observations": [
+      "000074.png"
+    ],
+    "total_texels": 1600047
+  },
+  "Tiger_60": {
+    "individual_id": "Tiger_60",
+    "first_seen": "000075.png",
+    "observations": [
+      "000075.png"
+    ],
+    "total_texels": 1249108
+  },
+  "Tiger_61": {
+    "individual_id": "Tiger_61",
+    "first_seen": "000076.png",
+    "observations": [
+      "000076.png"
+    ],
+    "total_texels": 988414
+  },
+  "Tiger_62": {
+    "individual_id": "Tiger_62",
+    "first_seen": "000077.png",
+    "observations": [
+      "000077.png"
+    ],
+    "total_texels": 978764
+  },
+  "Tiger_63": {
+    "individual_id": "Tiger_63",
+    "first_seen": "000078.png",
+    "observations": [
+      "000078.png"
+    ],
+    "total_texels": 1337619
+  },
+  "Tiger_64": {
+    "individual_id": "Tiger_64",
+    "first_seen": "000079.png",
+    "observations": [
+      "000079.png"
+    ],
+    "total_texels": 1015912
+  },
+  "Tiger_65": {
+    "individual_id": "Tiger_65",
+    "first_seen": "000080.png",
+    "observations": [
+      "000080.png"
+    ],
+    "total_texels": 842418
+  },
+  "Tiger_66": {
+    "individual_id": "Tiger_66",
+    "first_seen": "000081.png",
+    "observations": [
+      "000081.png"
+    ],
+    "total_texels": 1199044
+  },
+  "Tiger_67": {
+    "individual_id": "Tiger_67",
+    "first_seen": "000082.png",
+    "observations": [
+      "000082.png"
+    ],
+    "total_texels": 1217214
+  },
+  "Tiger_68": {
+    "individual_id": "Tiger_68",
+    "first_seen": "000083.png",
+    "observations": [
+      "000083.png"
+    ],
+    "total_texels": 1062035
+  },
+  "Tiger_69": {
+    "individual_id": "Tiger_69",
+    "first_seen": "000084.png",
+    "observations": [
+      "000084.png"
+    ],
+    "total_texels": 1087578
+  },
+  "Tiger_70": {
+    "individual_id": "Tiger_70",
+    "first_seen": "000085.png",
+    "observations": [
+      "000085.png"
+    ],
+    "total_texels": 412727
+  },
+  "Tiger_71": {
+    "individual_id": "Tiger_71",
+    "first_seen": "000087.png",
+    "observations": [
+      "000087.png"
+    ],
+    "total_texels": 1142187
+  },
+  "Tiger_72": {
+    "individual_id": "Tiger_72",
+    "first_seen": "000088.png",
+    "observations": [
+      "000088.png"
+    ],
+    "total_texels": 1218183
+  },
+  "Tiger_73": {
+    "individual_id": "Tiger_73",
+    "first_seen": "000089.png",
+    "observations": [
+      "000089.png"
+    ],
+    "total_texels": 985861
+  },
+  "Tiger_74": {
+    "individual_id": "Tiger_74",
+    "first_seen": "000090.png",
+    "observations": [
+      "000090.png"
+    ],
+    "total_texels": 1210483
+  },
+  "Tiger_75": {
+    "individual_id": "Tiger_75",
+    "first_seen": "000091.png",
+    "observations": [
+      "000091.png"
+    ],
+    "total_texels": 1117207
+  },
+  "Tiger_76": {
+    "individual_id": "Tiger_76",
+    "first_seen": "000092.png",
+    "observations": [
+      "000092.png"
+    ],
+    "total_texels": 1007295
+  },
+  "Tiger_77": {
+    "individual_id": "Tiger_77",
+    "first_seen": "000093.png",
+    "observations": [
+      "000093.png"
+    ],
+    "total_texels": 1184361
+  },
+  "Tiger_78": {
+    "individual_id": "Tiger_78",
+    "first_seen": "000094.png",
+    "observations": [
+      "000094.png"
+    ],
+    "total_texels": 1096119
+  },
+  "Tiger_79": {
+    "individual_id": "Tiger_79",
+    "first_seen": "000095.png",
+    "observations": [
+      "000095.png"
+    ],
+    "total_texels": 1007737
+  },
+  "Tiger_80": {
+    "individual_id": "Tiger_80",
+    "first_seen": "000096.png",
+    "observations": [
+      "000096.png"
+    ],
+    "total_texels": 1111380
+  },
+  "Tiger_81": {
+    "individual_id": "Tiger_81",
+    "first_seen": "000097.png",
+    "observations": [
+      "000097.png"
+    ],
+    "total_texels": 879238
+  },
+  "Tiger_82": {
+    "individual_id": "Tiger_82",
+    "first_seen": "000098.png",
+    "observations": [
+      "000098.png"
+    ],
+    "total_texels": 1034254
+  },
+  "Tiger_83": {
+    "individual_id": "Tiger_83",
+    "first_seen": "000099.png",
+    "observations": [
+      "000099.png"
+    ],
+    "total_texels": 1064816
+  },
+  "Tiger_84": {
+    "individual_id": "Tiger_84",
+    "first_seen": "000100.png",
+    "observations": [
+      "000100.png"
+    ],
+    "total_texels": 1478512
+  }
+}
