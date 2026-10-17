@@ -1,0 +1,64 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+**/*__pycache__*
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual Environments
+env/
+venv/
+ENV/
+.venv/
+env.bak/
+venv.bak/
+
+# Testing & Coverage
+.pytest_cache/
+**/.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.nox/
+
+# Node & Frontend Dependencies & Builds
+node_modules/
+**/node_modules/
+**/node_modules.*/
+dist/
+**/dist/
+dist-ssr/
+*.local
+.pnpm-debug.log*
+
+# Tooling / Local Binaries
+.tools/
+**/.tools/
+
+# Model and Runtime Caches
+backend/model_cache/
+**/model_cache/
+.cache/
+**/.cache/
+
+# Generated Reports & Uploads
+Merge/VNAVTASK/backend/generated_reports/*.pdf
+Merge/VNAVTASK/backend/generated_reports/*.csv
+Merge/VNAVTASK/data/imports/*
+!Merge/VNAVTASK/data/imports/.gitkeep
+
+# Environment variables & secrets
+.env
+.env.*
+!.env.example
+
+# OS generated files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+[Dd]esktop.ini
+
+# Logs & temp files
+*.log
+*.tmp
